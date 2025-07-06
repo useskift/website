@@ -1,0 +1,4 @@
+Sitemap: https://website.skift.work/sitemap-index.xml
+
+User-agent: *
+Allow: /
